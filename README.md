@@ -5,5 +5,7 @@ For now, there's only option to use sliders to go through slices, plot row/colum
 
 Come back later for further updates. Thanks!
 
+[Here's a demo of a CT scan of a cabbage that was done on a benchtop CBCT system.]
+
 ![Demo Image Load and View](fig/Demo720.gif)
 
