@@ -1,1 +1,1 @@
-![Demo Image Load and View](Demo720.mp4)
+![Demo Image Load and View](fig/Demo720.mp4)
